@@ -1,0 +1,4 @@
+- Não é possível cadastrar um novo usuário
+- Não dá para ligar um saldo a um usuário específico
+- Melhorar os relatórios
+- Atualizar saldo quando se cria uma transação
